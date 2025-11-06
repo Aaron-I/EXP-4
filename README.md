@@ -81,24 +81,24 @@ PROCEDURE:
 
 ### Half wave rectifier with filter:
 
-<img width="1481" height="927" alt="E4 - 3" src="https://github.com/user-attachments/assets/a5e3c39f-b07c-4f7c-a37a-90d0470a4306" />
 
+<img width="1920" height="1200" alt="E4 - 5" src="https://github.com/user-attachments/assets/339d7292-2405-46dc-940c-bfc2d90d93b2" />
 
 ### Half wave rectifier without filter:
 
-<img width="1920" height="1200" alt="E4 - 4" src="https://github.com/user-attachments/assets/4620cf4a-56bf-4dc0-8403-895f30cc234a" />
 
+<img width="1920" height="1200" alt="E4 - 6" src="https://github.com/user-attachments/assets/c4c9e2c0-4c21-47d3-a845-914b6749e7cf" />
 
 
 ### Full wave rectifier with filter
 
-<img width="1920" height="1200" alt="E4 - 5" src="https://github.com/user-attachments/assets/339d7292-2405-46dc-940c-bfc2d90d93b2" />
 
+<img width="1920" height="1200" alt="E4 - 7" src="https://github.com/user-attachments/assets/1c853f72-a9d5-4246-a9d3-9b771a3b1f68" />
 
 
 ### Full wave rectifier without filter:
 
-<img width="1920" height="1200" alt="E4 - 6" src="https://github.com/user-attachments/assets/c4c9e2c0-4c21-47d3-a845-914b6749e7cf" />
+<img width="1920" height="1200" alt="E4 - 8" src="https://github.com/user-attachments/assets/3ebd9495-db88-44e7-8d15-4015e36d57c8" />
 
 
 RESULT:
